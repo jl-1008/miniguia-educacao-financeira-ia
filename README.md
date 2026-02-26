@@ -41,3 +41,9 @@ Demonstrar capacidade de:
 ---
 
 Projeto desenvolvido como prática aplicada de IA voltada para produtividade e aprendizado estruturado.
+
+## 📥 Download do material
+
+Baixe o miniguia completo em PDF:
+
+[📄 Clique aqui para abrir o PDF](mini.guia.educacao.financeira.pdf)
