@@ -1,4 +1,5 @@
 # 📘 Miniguia de Educação Financeira com IA
+![Capa do projeto](educacaofinanceira.png)
 
 Aplicação prática de Inteligência Artificial para organização estruturada de conhecimento em educação financeira.
 
